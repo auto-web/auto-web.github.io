@@ -32,7 +32,7 @@ The initial AutoWeb interface setup is not (yet) automated.
 
 In order to create the initla tables and admin user, execute the two SQL files located in `/opt/autoweb/interface/lib`.
 
-You can now lo into your web interface with the login `admin` and the password `admin`.
+You can now log into your web interface with the login `admin` and the password `admin`.
 
 
 ## Troubleshooting
